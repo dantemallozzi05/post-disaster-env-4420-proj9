@@ -38,7 +38,17 @@ The main objectives of this project are to:
 ## 5. Assets and Resources
 | Asset | Source | Purpose |
 |---|---|---|
-| [Light Foliage] | [MYTHRA TECH] | [How it was used] |
+| Light Foliage | MYTHRA TECH | [How it was used] |
+| Modular Urban houses | Replex | [How it was used] |
+| Pavement floor tiles pile | matousekfoto | Small Rubble Details |
+| South Stack Rubble Scan | commonspence| Small Rubble Details |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
 | [Asset name] | [Creator or URL] | [How it was used] |
 | [Asset name] | [Creator or URL] | [How it was used] |
 
