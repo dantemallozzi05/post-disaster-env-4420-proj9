@@ -38,7 +38,7 @@ The main objectives of this project are to:
 ## 5. Assets and Resources
 | Asset | Source | Purpose |
 |---|---|---|
-| [Asset name] | [Creator or URL] | [How it was used] |
+| [Light Foliage] | [MYTHRA TECH] | [How it was used] |
 | [Asset name] | [Creator or URL] | [How it was used] |
 | [Asset name] | [Creator or URL] | [How it was used] |
 
