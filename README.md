@@ -38,18 +38,20 @@ The main objectives of this project are to:
 ## 5. Assets and Resources
 | Asset | Source | Purpose |
 |---|---|---|
-| Light Foliage | MYTHRA TECH | [How it was used] |
-| Modular Urban houses | Replex | [How it was used] |
+| Light Foliage | MYTHRA TECH | Add vegetation around Map |
+| Modular Urban houses | Replex | Our Houses, and Apartments around the map |
 | Pavement floor tiles pile | matousekfoto | Small Rubble Details |
 | South Stack Rubble Scan | commonspence| Small Rubble Details |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
-| [Asset name] | [Creator or URL] | [How it was used] |
+| Wood Utility Poles | Eleanie |  |
+| Construction Site VOL. 1 - Supply and Material Props | Dekogon Studios| Scattered around map, looks like debris |
+| Modern Street Props - 16 Pieces | Infinite Polygon Studio | Used the streetlights for light|
+| Shipping Container PBR (UE5 SAMPLE) | Sayantan Biswas |  |
+| Vehicle Variety Pack | Switchboard Studios | Vehicles in parking lots, roads, and flipped from hurricane |
+| Uncut Grass | Quixel Megascans | The floor of our map uses this asset|
+| Simple Water Puddles (Free) | JVAD3D Models | Create Flooding |
+| MetaRoad: CitySample Pack| udrive | Road texture |
+| Landscape Material MW Landscape Auto Material | MAWI United| [How it was used] |
+| Landscape Pro 2.0 Auto-Generated Material | STF3d | [How it was used] |
 | [Asset name] | [Creator or URL] | [How it was used] |
 
 ## 6. Challenges and Limitations
