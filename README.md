@@ -1,1 +1,74 @@
 # post-disaster-env-4420-proj9
+
+## 1. Project Overview
+
+This project focuses on creating a hurricane-damaged environment in Unreal Engine 5.8 (UE5) for future unmanned aerial vehicle (UAV) and ground-robot search-and-rescue experiments.
+The environment is designed to represent the aftermath of a hurricane and include urban structures, roads, open areas, vegetation, and disaster-related damage that can be used to simulate search-and-rescue scenarios.
+
+## 2. Project Objectives
+The main objectives of this project are to:
+- Create a large, navigable residential environment.
+- Develop roads, open areas, and surrounding terrain.
+- Incorporate at least 10 different disaster-related objects or effects.
+- Represent realistic hurricane damage, such as flooding, fallen trees, damaged buildings, and debris.
+- Document the environment's development, limitations, and potential improvements.
+
+## 3. Tools and Technologies
+
+- **Unreal Engine 5.8:** Environment creation and level design.
+
+## 4. Environment Design and Development
+
+### 4.1 Initial Environment Layout
+**Status:** In Progress
+
+### 4.2 Terrain and Landscaping
+**Status:** In Progress
+
+### 4.3 Roads and Infrastructure
+**Status:** In Progress
+
+### 4.4 Hurricane Damage
+
+**Status:** Planned
+
+### 4.5 Final Environment Integration
+**Status:** Planned
+
+## 5. Assets and Resources
+| Asset | Source | Purpose |
+|---|---|---|
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+| [Asset name] | [Creator or URL] | [How it was used] |
+
+## 6. Challenges and Limitations
+
+### 6.1 Unreal Engine Performance on macOS
+Unreal Engine 5 presented hardware constraints on macOS, particularly with memory usage and available disk storage. These limitations made it difficult to work with a large environment and install additional city-generation plugins.
+
+### 6.2 Team Communication
+Inconsistent communication made it more difficult to coordinate tasks, share progress, and identify blockers.
+
+### 6.3 Project Scheduling
+Development began later than ideal because of competing commitments and other responsibilities.
+
+## 7. Lessons Learned and Future Improvements
+[insert here]
+
+## 8. Current Project Status
+- [ ] Complete the main environment layout.
+- [ ] Finalize terrain, roads, and landscaping.
+- [ ] Add at least 10 disaster-related objects or effects.
+- [ ] Verify that the environment is navigable.
+- [ ] Capture screenshots or a short video of the completed environment.
+- [ ] Update the README with final implementation details and known limitations.
+
+## 9. How to Open the Project
+1. Clone or download the project repository.
+2. Locate the Unreal Engine project file (`.uproject`).
+3. Open the project using a compatible version of Unreal Engine 5.
+4. Open the main environment map from the project's Maps folder.
+NOTE: Download all assests used in this project to see the proper environment
+   
+## 10. Future Work
