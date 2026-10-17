@@ -20,20 +20,20 @@ The main objectives of this project are to:
 ## 4. Environment Design and Development
 
 ### 4.1 Initial Environment Layout
-**Status:** In Progress
+**Status:** Mostly Complete
 
 ### 4.2 Terrain and Landscaping
-**Status:** In Progress
+**Status:** Complete
 
 ### 4.3 Roads and Infrastructure
-**Status:** In Progress
+**Status:** Complete
 
 ### 4.4 Hurricane Damage
 
-**Status:** Planned
+**Status:** Mostly Complete
 
 ### 4.5 Final Environment Integration
-**Status:** Planned
+**Status:** In Progress
 
 ## 5. Assets and Resources
 | Asset | Source | Purpose |
@@ -66,15 +66,15 @@ Inconsistent communication made it more difficult to coordinate tasks, share pro
 Development began later than ideal because of competing commitments and other responsibilities.
 
 ## 7. Lessons Learned and Future Improvements
-[insert here]
+Establish and organize tasks per team member. Establish consistent communication and updates about the project. Send emails when the team hit roadblocks that need outside perspectives to solve. 
 
 ## 8. Current Project Status
-- [ ] Complete the main environment layout.
-- [ ] Finalize terrain, roads, and landscaping.
-- [ ] Add at least 10 disaster-related objects or effects.
-- [ ] Verify that the environment is navigable.
-- [ ] Capture screenshots or a short video of the completed environment.
-- [ ] Update the README with final implementation details and known limitations.
+- [X] Complete the main environment layout.
+- [X] Finalize terrain, roads, and landscaping.
+- [X] Add at least 10 disaster-related objects or effects.
+- [X] Verify that the environment is navigable.
+- [X] Capture screenshots or a short video of the completed environment.
+- [X] Update the README with final implementation details and known limitations.
 
 ## 9. How to Open the Project
 1. Clone or download the project repository.
@@ -84,3 +84,7 @@ Development began later than ideal because of competing commitments and other re
 NOTE: Download all assests used in this project to see the proper environment
    
 ## 10. Future Work
+1. Fix minor bugs involving assets and the landscape interacting.
+2. Add flooding in multiple locations of the main map.
+3. Create more locations where survivors can be located in the main map.
+4. Enhance the visuals of the map using new assets. 
