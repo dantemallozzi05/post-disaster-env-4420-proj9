@@ -52,6 +52,7 @@ The main objectives of this project are to:
 | MetaRoad: CitySample Pack| udrive | Road texture |
 | Landscape Material MW Landscape Auto Material | MAWI United| [How it was used] |
 | Landscape Pro 2.0 Auto-Generated Material | STF3d | [How it was used] |
+| Office Building 001 | Alex Korotkin | Used for highrise texture |
 
 
 ## 6. Challenges and Limitations
