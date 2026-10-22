@@ -53,7 +53,8 @@ The main objectives of this project are to:
 | Landscape Material MW Landscape Auto Material | MAWI United| [How it was used] |
 | Landscape Pro 2.0 Auto-Generated Material | STF3d | [How it was used] |
 | Office Building 001 | Alex Korotkin | Used for highrise texture |
-
+| 5 Different Flag Assets | Incg5764 | Used for target location markers |
+| Minimalist Blue and Orange Fabric Backpack | dimension Dazzle | Used with flags to mark survivor locations |
 
 ## 6. Challenges and Limitations
 
