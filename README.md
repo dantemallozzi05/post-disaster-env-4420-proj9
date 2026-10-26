@@ -55,6 +55,9 @@ The main objectives of this project are to:
 | Office Building 001 | Alex Korotkin | Used for highrise texture |
 | 5 Different Flag Assets | Incg5764 | Used for target location markers |
 | Minimalist Blue and Orange Fabric Backpack | dimension Dazzle | Used with flags to mark survivor locations |
+| Red car wreck | Axonite | Used for flooding damage to local vehicles|
+| Rusty steel scrap pile | matousekfoto | Used for debris replication |
+| Brick arcs barn ruin | matousekfoto | Used to replicate debris |
 
 ## 6. Challenges and Limitations
 
