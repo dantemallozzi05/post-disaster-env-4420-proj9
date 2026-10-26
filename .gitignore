@@ -1,0 +1,15 @@
+# Unreal cache and build folders
+HurricaneCityReplica/Saved/
+HurricaneCityReplica/Intermediate/
+HurricaneCityReplica/DerivedDataCache/
+HurricaneCityReplica/Binaries/
+HurricaneCityReplica/*.png
+
+# Ignore all downloaded packs in Content, but keep maps and team-made assets
+HurricaneCityReplica/Content/*
+!HurricaneCityReplica/Content/*.umap
+!HurricaneCityReplica/Content/*_BuiltData.uasset
+!HurricaneCityReplica/Content/Maps/
+!HurricaneCityReplica/Content/Team/
+!HurricaneCityReplica/Content/__ExternalActors__/
+!HurricaneCityReplica/Content/__ExternalObjects__/
