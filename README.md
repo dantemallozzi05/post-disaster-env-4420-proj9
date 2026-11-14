@@ -61,6 +61,9 @@ The main objectives of this project are to:
 | Location Pin 3D Model – Low Poly Map Marker | PabloStudio1 | Used to mark survivor locations, as well as UAV / rover start locations |
 | Quarry House Debris Scan | commonspence | Used to place debris amongst buildings |
 | Building | Chtazi Nazka | Another type of skyscraper |
+| Modern Female Character | Alpen Wolf | For survivor model |
+| Various Attitudes Animations | Motion Cast | For survivor animations |
+
 
 ## 6. Challenges and Limitations
 
