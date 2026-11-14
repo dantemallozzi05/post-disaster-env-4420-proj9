@@ -60,6 +60,7 @@ The main objectives of this project are to:
 | Brick arcs barn ruin | matousekfoto | Used to replicate debris |
 | Location Pin 3D Model – Low Poly Map Marker | PabloStudio1 | Used to mark survivor locations, as well as UAV / rover start locations |
 | Quarry House Debris Scan | commonspence | Used to place debris amongst buildings |
+| Building | Chtazi Nazka | Another type of skyscraper |
 
 ## 6. Challenges and Limitations
 
