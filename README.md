@@ -64,7 +64,9 @@ The main objectives of this project are to:
 | Modern Female Character | Alpen Wolf | For survivor model |
 | Various Attitudes Animations | Motion Cast | For survivor animations |
 | German Shepherd 3D Dog Model | RetroStyle Games| Dog Model |
-| Cat long haired | Sean4297 | Cat Model |
+| Cat (Silver British Shorthair cat) | 3DCreator3527 | Cat Model |
+| Handpainted rooster and hen | Enkarra3D | Chicken Model |
+
 
 
 
