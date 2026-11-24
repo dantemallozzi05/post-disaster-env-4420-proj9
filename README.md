@@ -63,6 +63,8 @@ The main objectives of this project are to:
 | Building | Chtazi Nazka | Another type of skyscraper |
 | Modern Female Character | Alpen Wolf | For survivor model |
 | Various Attitudes Animations | Motion Cast | For survivor animations |
+| German Shepherd 3D Dog Model | RetroStyle Games| Dog Model |
+
 
 
 ## 6. Challenges and Limitations
