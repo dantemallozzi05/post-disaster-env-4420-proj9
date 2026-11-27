@@ -66,6 +66,7 @@ The main objectives of this project are to:
 | German Shepherd 3D Dog Model | RetroStyle Games| Dog Model |
 | Cat (Silver British Shorthair cat) | 3DCreator3527 | Cat Model |
 | Handpainted rooster and hen | Enkarra3D | Chicken Model |
+| Scanned 3D People Pack | Render People | Different survivor models and animations |
 
 
 
