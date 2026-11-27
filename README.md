@@ -67,6 +67,7 @@ The main objectives of this project are to:
 | Cat (Silver British Shorthair cat) | 3DCreator3527 | Cat Model |
 | Handpainted rooster and hen | Enkarra3D | Chicken Model |
 | Scanned 3D People Pack | Render People | Different survivor models and animations |
+| ANIMAL VARIETY PACK | PROTOFACTOR INC| Wolf, doe, stag, fox, crow, pig models |
 
 
 
