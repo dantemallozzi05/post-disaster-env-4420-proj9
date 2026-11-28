@@ -68,9 +68,7 @@ The main objectives of this project are to:
 | Handpainted rooster and hen | Enkarra3D | Chicken Model |
 | Scanned 3D People Pack | Render People | Different survivor models and animations |
 | ANIMAL VARIETY PACK | PROTOFACTOR INC| Wolf, doe, stag, fox, crow, pig models |
-
-
-
+| Buildings | Elbolillo| Extra building textures |
 
 
 ## 6. Challenges and Limitations
